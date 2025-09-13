@@ -1,0 +1,10 @@
+colour = input("Enter a colour: ")
+accessory = input("Enter an accessory: ")
+place = input("Enter a place: ")
+adjective = input("Enter an adjective: ")
+adjective2 = input("Enter another adjective: ")
+
+print("I wore my favourite " + colour + " dress today")
+print ("And matched it with my " + accessory)
+print ("Then I left the house to go to " + place + " and meet my " + adjective + " friends")
+print ("Who knew Madlibs were so " + adjective2 + "!")

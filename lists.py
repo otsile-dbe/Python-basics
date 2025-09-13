@@ -4,5 +4,3 @@ friends.extend(ages) #adding another list to existing list
 friends.insert(4, "Lerato") #inserting item at specific index number
 print(friends[3]) #accessing item in list using index number, starts from 0
 print(friends[-1]) #accessing last item in list using negative index number
-
-

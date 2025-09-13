@@ -24,4 +24,4 @@ This repository documents my journey learning Python as part of my preparation f
 ---
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/palesa-dube-1657b12bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-📂 See all my repos on [GitHub](https://github.com/otsile.dbe)
+📂 See all my repos on [GitHub](https://github.com/otsile-dbe)

@@ -8,7 +8,9 @@ This repository documents my journey learning Python as part of my preparation f
 - `strings.py` → string methods (`upper`, `lower`, `replace`, `len`)  
 - `numbers.py` → math operations  
 - `input_demo.py` → user input basics  
-- `calculator.py` → simple calculator (coming next session)  
+- `calculator.py` → simple calculator 
+- 'lists.py' 
+- 'madlibs.py' 
 
 ## 🚀 Learning Roadmap
 - Week 1 → Python basics (printing, variables, strings, numbers, input, calculator)  

@@ -23,6 +23,9 @@ User input basics
 ### calculator.py  
 Simple calculator  
 
+### better_calculator.py  
+Extended calculator with more operations and error handling  
+
 ### lists.py  
 Working with lists & list methods  
 
@@ -38,6 +41,12 @@ Using return values in functions
 ### if_statements.py  
 If, elif, else statements & comparisons  
 
+### while_loops.py  
+While loops for repeated execution  
+
+### dictionaries.py  
+Key–value pairs for storing and retrieving data  
+
 ### madlibs.py  
 Mini Mad Libs game  
 
@@ -46,8 +55,10 @@ Mini Mad Libs game
 ## 🗓️ Learning Roadmap  
 - **Week 1** → Printing, strings, numbers, variables, input, calculator ✅  
 - **Week 2** → Lists, tuples, functions, return statements, if/else & comparisons ✅  
-- **Week 3** → Loops and error handling  
-- **Week 4** → File handling & mini projects  
+- **Week 3** → Better calculator, while loops, dictionaries ✅  
+- **Week 4** → For loops, guessing game, error handling  
+- **Week 5–6** → File handling & mini projects  
+- **Week 7–8** → Python applied to security/data tasks  
 
 ---
 
@@ -59,9 +70,6 @@ Mini Mad Libs game
 ---
 
 ✨ This repository grows with each coding session as I expand my Python skills.  
-  
- 
-  
 
 ---
 

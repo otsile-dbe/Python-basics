@@ -3,13 +3,14 @@
 def translate(phrase):
     translation = ""
     for letter in phrase:
-        if letter in "AEIOUaeiou": #checking if letter we want to loop is in the string defined
-            translation = translation + "g"
+        if letter.lower() in "aeiou": #checking if letter we want to loop is in the string defined, use lower operator to account for all vowels upper and lowercase
+            if letter.isupper():
+                translation = translation + "G"
+            else:
+                translation = translation + "g"
         else:
             translation = translation + letter
     return translation 
-
-print(translate("Bok"))
-print(translate(input("Enter a phrase:")))
+print(translate(input("Enter a phrase: ")))
 
     

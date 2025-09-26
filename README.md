@@ -1,5 +1,5 @@
 # Python Basics  
-
+ 
 This repository documents my journey learning Python as part of my preparation for a career in **cybersecurity** and **data science**.  
 
 ---
@@ -47,6 +47,21 @@ While loops for repeated execution
 ### dictionaries.py  
 Key–value pairs for storing and retrieving data  
 
+### for_loops.py  
+Iterating over sequences and ranges  
+
+### exponent_function.py  
+Custom exponent function with loops  
+
+### nested_loops.py  
+2D lists and nested loops  
+
+### translator.py  
+Simple translator program (mini project)  
+
+### guessing_game.py  
+Interactive guessing game (mini project)  
+
 ### madlibs.py  
 Mini Mad Libs game  
 
@@ -56,9 +71,16 @@ Mini Mad Libs game
 - **Week 1** → Printing, strings, numbers, variables, input, calculator ✅  
 - **Week 2** → Lists, tuples, functions, return statements, if/else & comparisons ✅  
 - **Week 3** → Better calculator, while loops, dictionaries ✅  
-- **Week 4** → For loops, guessing game, error handling  
-- **Week 5–6** → File handling & mini projects  
-- **Week 7–8** → Python applied to security/data tasks  
+- **Week 4** → Guessing game, for loops, exponent function, nested loops, translator ✅  
+- **Week 5–6** → Functions (advanced), error handling, file handling  
+- **Week 7–8** → Mini projects, applying Python to security/data tasks  
+
+---
+
+## 🎮 Mini Projects  
+- **Mad Libs Game** → builds strings interactively  
+- **Guessing Game** → uses loops, conditionals, and input for interactivity  
+- **Translator** → converts characters using dictionaries and nested loops  
 
 ---
 
@@ -69,9 +91,7 @@ Mini Mad Libs game
 
 ---
 
-✨ This repository grows with each coding session as I expand my Python skills.  
-
----
+✨ This repository grows with each coding session as I expand my Python skills.
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/palesa-dube-1657b12bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 📂 See all my repos on [GitHub](https://github.com/otsile-dbe)

@@ -4,7 +4,8 @@ This repository documents my journey learning Python as part of my preparation f
 
 ---
 
-## 📂 Contents  
+## 📖 Contents  
+
 ### hello.py  
 First program, printing basics  
 
@@ -21,49 +22,52 @@ Math operations
 User input basics  
 
 ### calculator.py  
-Simple calculator  
+Mini calculator  
 
 ### better_calculator.py  
-Extended calculator with more operations and error handling  
-
-### lists.py  
-Working with lists & list methods  
+Improved calculator with more operations  
 
 ### tuples.py  
-Tuples (immutable sequences)  
+Tuples basics  
 
 ### functions.py  
 Defining and calling functions  
 
 ### return_statements.py  
-Using return values in functions  
+Return values from functions  
 
-### if_statements.py  
-If, elif, else statements & comparisons  
-
-### while_loops.py  
-While loops for repeated execution  
+### if_statement.py  
+If statements & comparisons  
 
 ### dictionaries.py  
-Key–value pairs for storing and retrieving data  
+Working with key-value pairs  
 
-### for_loops.py  
-Iterating over sequences and ranges  
-
-### exponent_function.py  
-Custom exponent function with loops  
-
-### nested_loops.py  
-2D lists and nested loops  
-
-### translator.py  
-Simple translator program (mini project)  
+### while_loops.py  
+While loop basics  
 
 ### guessing_game.py  
-Interactive guessing game (mini project)  
+Simple guessing game  
 
-### madlibs.py  
-Mini Mad Libs game  
+### for_loops.py  
+For loops and iteration  
+
+### exponent_function.py  
+Exponent function basics  
+
+### nested_lists.py  
+2D lists & nested loops  
+
+### translator.py  
+Word translator project  
+
+### comments.py  
+Adding comments in code  
+
+### try_except.py  
+Error handling with try/except  
+
+### reading_files.py  
+Reading external files in Python  
 
 ---
 
